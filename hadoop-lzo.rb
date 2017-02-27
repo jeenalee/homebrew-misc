@@ -2,8 +2,8 @@ require 'formula'
 
 class HadoopLzo < Formula
   homepage 'https://github.com/twitter/hadoop-lzo'
-  url 'https://github.com/twitter/hadoop-lzo/archive/release-0.4.19.tar.gz'
-  sha1 'ec2f6ed9114301b46e5a1977f74ef9047f38c3e5'
+  url 'https://github.com/twitter/hadoop-lzo/archive/release-0.4.20.tar.gz'
+  sha256 'dfc8b1c9debd40d8ab655681a058caf129913d7eb8e0f285c88c11446d01b69e'
 
   depends_on "maven"
   depends_on "lzop"

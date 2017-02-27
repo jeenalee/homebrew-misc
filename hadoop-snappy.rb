@@ -4,7 +4,7 @@ class HadoopSnappy < Formula
   homepage 'https://github.com/xerial/snappy-java'
 
   url 'https://github.com/xerial/snappy-java/archive/1.1.1.3.tar.gz'
-  sha1 '16670cc681edbea95c642b39787ab0caddded616'
+  sha256 '1e7071f5fbfc96fd063f94fcf25a6faf389ad6e1b0f3f40d3fdcc50f5402d76a'
 
   depends_on "sbt"
 

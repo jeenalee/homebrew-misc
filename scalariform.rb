@@ -3,7 +3,7 @@ require 'formula'
 class Scalariform < Formula
   url 'https://s3.amazonaws.com/scalariform/scalariform.jar', :using => :nounzip
   homepage 'https://github.com/mdr/scalariform'
-  sha1 '7a145260dcdc3a7b5fcf7df40f92f781ccc75d85'
+  sha256 '7a145260dcdc3a7b5fcf7df40f92f781ccc75d85'
   version '0.1.4'
 
   def install
